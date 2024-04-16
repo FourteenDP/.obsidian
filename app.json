@@ -1,0 +1,20 @@
+{
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "tabSize": 2,
+  "vimMode": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "9000-信箱",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": null,
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "useMarkdownLinks": false,
+  "useTab": false
+}

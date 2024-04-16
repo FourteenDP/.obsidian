@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "1c54c3a2ed33450d",
+    "type": "split",
+    "children": [
+      {
+        "id": "deabd422546fa9a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0520bf80a63766ae",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62ae2ea48e6835cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "273e4b23c1b43640",
+        "type": "tabs",
+        "dimension": 68.18181818181819,
+        "children": [
+          {
+            "id": "085664c0cbf141e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35d4d6c869fff749",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5118a4973f82239",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "000e72a154be7e1f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "feac384e313bb939",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed9c30396de5752f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4c1689b1981a8e4d",
+        "type": "tabs",
+        "dimension": 31.81818181818182,
+        "children": [
+          {
+            "id": "61e44e295b788f53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "fc281553ae42aec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdaa332700573093",
+        "type": "tabs",
+        "dimension": 58.90538033395176,
+        "children": [
+          {
+            "id": "c5a46b66b690ff64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae59fc5b65293e5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27ef0ac8aabb8ce7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "16d9f6cbf7d4fa00",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a612b30a8fa6aff7",
+        "type": "tabs",
+        "dimension": 41.09461966604824,
+        "children": [
+          {
+            "id": "24819b3b2407bc34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "847937bd18fad8d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "custom-sort:Toggle custom sorting": false,
+      "code-files:Create Code File": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-custom-frames:Open tdoo": false,
+      "obsidian-custom-frames:Open flomo": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0520bf80a63766ae",
+  "lastOpenFiles": [
+    "assets/Pasted image 20240220143629.png",
+    "Note",
+    "新建文件夹",
+    "index.md",
+    "未整理/任务.md",
+    "未整理/浏览器 URL 字符串长度限制.md",
+    "assets/Pasted image 20240220143624.png",
+    "assets/Pasted image 20240306172700.png",
+    "assets/Pasted image 20240219194210.png",
+    "assets/svg/后端常见分层.drawio.svg",
+    "assets/svg/构建知识库.svg",
+    "assets/svg/submodule和subtree区别.excalidraw.svg",
+    "assets/svg/UniApp生命周期.drawio.svg",
+    "未整理/笔记本禁用自带键盘.md",
+    "未整理/Linux 常用工具.md",
+    "未整理/Linux 安装命令行工具 Oh My Zsh.md",
+    "未整理/Linux 开发环境配置.md",
+    "未整理/Linux 常用下载器.md",
+    "未整理/Linux 安装 Node 版本管理器 Nvm.md",
+    "未整理/Debian 中文环境.md",
+    "未整理/Linux 系统镜像源和更新.md",
+    "未整理/Neovim 的安装和配置.md",
+    "掘金小册/Nest通关秘籍/5IoC 解决了什么痛点问题？.md",
+    "掘金小册/Nest通关秘籍/4 5种HTTP数据传输方式.md",
+    "掘金小册/Nest通关秘籍/3快速掌握 Nest CLI.md",
+    "掘金小册/Nest通关秘籍/1开篇词.md",
+    "掘金小册/Nest通关秘籍/2给你 5 个学习 Nest 的理由，你会心动么.md",
+    "掘金小册/Nest通关秘籍/120如何调试 Nest 源码？.md",
+    "掘金小册/Nest通关秘籍/45 种 HTTP 数据传输方式.md",
+    "掘金小册/Nest通关秘籍/45快速掌握 TypeORM.md",
+    "未整理/低代码.md",
+    "掘金小册/Nest通关秘籍/87会议室预订系统：用户管理模块-- 用户端登录注册页面.md",
+    "掘金小册/Nest通关秘籍/80会议室预订系统：需求分析和原型图.md",
+    "掘金小册/Nest通关秘籍/99Nest 如何创建微服务？.md",
+    "掘金小册/Nest通关秘籍/9AOP 架构有什么好处？.md",
+    "掘金小册/Nest通关秘籍",
+    "掘金小册",
+    "lib/Run/uid.js",
+    "lib/Run/Obsidian目录生成.ts",
+    "拾肆/简历/邓智鹏 - 前端工程师.pdf",
+    "日志/2024",
+    "代码/Obsidian全屏iframe.html",
+    "拾肆/个人/惠州市技师学院-毕业证.pdf",
+    "assets/image/Pasted image 20240203174515.png",
+    "assets/image/Pasted image 20240123101848.png"
+  ]
+}

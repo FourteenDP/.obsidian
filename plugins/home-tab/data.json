@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": true,
+  "recentFilesStore": [
+    {
+      "filepath": "assets/Pasted image 20240220143629.png",
+      "timestamp": 1713228497236
+    },
+    {
+      "filepath": "未整理/任务.md",
+      "timestamp": 1713228496636
+    },
+    {
+      "filepath": "未整理/浏览器 URL 字符串长度限制.md",
+      "timestamp": 1713228495298
+    },
+    {
+      "filepath": "assets/Pasted image 20240220143624.png",
+      "timestamp": 1713228462957
+    },
+    {
+      "filepath": "assets/Pasted image 20240306172700.png",
+      "timestamp": 1713228451136
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false
+}

@@ -1,0 +1,49 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-linter:lint-all-files-in-folder",
+      "icon": "lint-folder",
+      "name": "Linter: 格式化文件夹中的所有文件",
+      "mode": "any"
+    },
+    {
+      "id": "file-explorer:move-file",
+      "icon": "lucide-folder-tree",
+      "name": "将文件移动到其他文件夹",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-git:toggle-line-author-info",
+      "icon": "git-branch-plus",
+      "name": "Obsidian Git: Toggle line author information",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 2,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
