@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "deabd422546fa9a7",
+        "id": "cd23a97695ec588d",
         "type": "tabs",
         "children": [
           {
-            "id": "0520bf80a63766ae",
+            "id": "23b205d94aa780dd",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "code-editor",
+              "state": {
+                "file": "lib/script/uid.js"
+              }
             }
           }
         ]
@@ -86,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4c1689b1981a8e4d",
@@ -122,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "lib/script/uid.js"
+              }
             }
           },
           {
@@ -170,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lib/script/uid.js",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lib/script/uid.js",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,12 +224,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0520bf80a63766ae",
+  "active": "085664c0cbf141e9",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "lib/template/日志/月总结.md",
+    "lib/template/日志/日总结.md",
+    "lib/template/日志/年总结.md",
+    "lib/template/日志/季总结.md",
+    "lib/template/日志/周总结.md",
+    "lib/template/日志",
+    "lib/template",
+    "lib/script/uid.js",
+    "lib/script",
+    "lib/Run/Obsidian目录生成.ts",
+    "lib/Run/uid.js",
+    "信箱/Visual Studio 恢复默认设置.md",
+    "信箱/前端系列教程.md",
+    "信箱/安卓原生开发速记.md",
+    "采集/【WSL】 WSLg 中显示中文（解决中文乱码）_wslg 中文乱码 - CSDN 博客.md",
+    "采集/各类三维引擎综合概述 (OpenGL、DirectX、WebGL、UE4、U3D、ACIS、ParaSolid） - 编程小白.md",
+    "采集/【JS 原型 & 原型链】一张图说清楚 - 简书.md",
     "assets/Pasted image 20240220143629.png",
     "Note",
     "新建文件夹",
-    "index.md",
     "未整理/任务.md",
     "未整理/浏览器 URL 字符串长度限制.md",
     "assets/Pasted image 20240220143624.png",
@@ -245,25 +268,8 @@
     "未整理/Neovim 的安装和配置.md",
     "掘金小册/Nest通关秘籍/5IoC 解决了什么痛点问题？.md",
     "掘金小册/Nest通关秘籍/4 5种HTTP数据传输方式.md",
-    "掘金小册/Nest通关秘籍/3快速掌握 Nest CLI.md",
-    "掘金小册/Nest通关秘籍/1开篇词.md",
-    "掘金小册/Nest通关秘籍/2给你 5 个学习 Nest 的理由，你会心动么.md",
-    "掘金小册/Nest通关秘籍/120如何调试 Nest 源码？.md",
-    "掘金小册/Nest通关秘籍/45 种 HTTP 数据传输方式.md",
-    "掘金小册/Nest通关秘籍/45快速掌握 TypeORM.md",
-    "未整理/低代码.md",
-    "掘金小册/Nest通关秘籍/87会议室预订系统：用户管理模块-- 用户端登录注册页面.md",
-    "掘金小册/Nest通关秘籍/80会议室预订系统：需求分析和原型图.md",
-    "掘金小册/Nest通关秘籍/99Nest 如何创建微服务？.md",
-    "掘金小册/Nest通关秘籍/9AOP 架构有什么好处？.md",
     "掘金小册/Nest通关秘籍",
     "掘金小册",
-    "lib/Run/uid.js",
-    "lib/Run/Obsidian目录生成.ts",
-    "拾肆/简历/邓智鹏 - 前端工程师.pdf",
-    "日志/2024",
-    "代码/Obsidian全屏iframe.html",
-    "拾肆/个人/惠州市技师学院-毕业证.pdf",
     "assets/image/Pasted image 20240203174515.png",
     "assets/image/Pasted image 20240123101848.png"
   ]

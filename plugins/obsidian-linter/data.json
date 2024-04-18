@@ -53,8 +53,8 @@
     },
     "yaml-title": {
       "enabled": true,
-      "title-key": "标题",
-      "mode": "filename"
+      "title-key": "title",
+      "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
       "enabled": false,
@@ -70,11 +70,11 @@
       "lowercase-words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
     },
     "file-name-heading": {
-      "enabled": true
+      "enabled": false
     },
     "header-increment": {
       "enabled": true,
-      "start-at-h2": false
+      "start-at-h2": true
     },
     "headings-start-line": {
       "enabled": true
@@ -253,7 +253,6 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "assets",
-    "仓库",
     "lib",
     "日志"
   ],
